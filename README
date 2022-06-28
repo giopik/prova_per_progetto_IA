@@ -1,4 +1,3 @@
 The dataset in this directory was downloaded from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download . 
-It is a joint dataset, created from different ones, with data from many sources.  
 Everything about licenses, downloads and legal stuff should be read from the Kaggle link above.
-This repo was created to easily import the dataset on a Colab project made for personal use.
+This repo was created to easily import the dataset on a Colab project. Only made for educational purpose.
